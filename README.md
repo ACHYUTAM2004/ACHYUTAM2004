@@ -147,9 +147,8 @@ I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a 
 ---
 
 ## 📫 Let's Connect!
-- **Email:** achyutamdubey@example.com  
-- **LinkedIn:** [linkedin.com/in/achyutamdubey](https://linkedin.com/in/achyutamdubey)  
-- **Portfolio:** [achyutamdubey.dev](https://achyutamdubey.dev)  
+- **Email:** dubeyachyutam.2004@gmail.com
 
+  
 Feel free to explore my repositories to see what I'm up to! Let's collaborate and build something amazing together. 🚀
 
