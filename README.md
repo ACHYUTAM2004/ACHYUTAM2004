@@ -136,14 +136,6 @@ I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a 
 - **Live Demo:**  
   A **Streamlit** demo for testing the toxicity classification in real-time.  
 
-
-
----
-
-## 🚀 What I'm Currently Working On
-- **Stress Level Detection:** Combining image and audio analysis to detect stress levels.
-- **Storytelling App:** A comprehensive Android app that generates stories with audio and video.
-
 ---
 
 ## 📫 Let's Connect!
