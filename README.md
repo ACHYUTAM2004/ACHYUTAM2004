@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 Hi, I'm Achyutam Dubey!
+## 👋 Hi, I'm Achyutam Dubey!
 
 I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a passion for **data science**, **machine learning**, and **Android development**. I enjoy solving real-world problems by building intelligent systems, blending innovation with engineering principles.
 
