@@ -132,7 +132,7 @@ I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a 
   Aims to improve online discourse by providing automated moderation tools, reducing harmful content, and fostering positive environments on digital platforms.  
 
 - **Live Demo:**  
-  A **Streamlit** demo for testing the toxicity classification in real-time.  
+  A **Streamlit** demo via hugging face spaces for testing the toxicity classification in real-time.  
 
 ---
 
