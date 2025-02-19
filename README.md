@@ -34,8 +34,8 @@ A deep learning-powered app that detects toxic comments by classifying text into
 ---
 
 ## 📫 Let's Connect!
--[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/achyutam-dubey-80957b260/)  
--**Gmail** - dubeyachyutam.2004@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/achyutam-dubey-80957b260/)  
+**Gmail** - dubeyachyutam.2004@gmail.com
 
 
   
