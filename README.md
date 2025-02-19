@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Achyutam Dubey!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=AI%2FML+Enthusiast;Deep+Learning+Explorer;Quizzing+and+Literature+Lover)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=AI%2FML+Enthusiast;Deep+Learning+Explorer)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ACHYUTAM2004&color=blue)
 
@@ -17,7 +17,7 @@ I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a 
 
 ---
 
-# 💻 Projects
+## 💻 Projects
 
 ## Music Genre Classification App 🎵
 A machine learning-based app that classifies music genres from audio files by extracting features (MFCCs, chroma, spectral contrast) using Librosa employing a TensorFlow/Keras model with a Streamlit UI for real-time predictions; it overcomes varying audio qualities through noise reduction and feature normalization, with future plans to expand the dataset, support live audio input, and recommend similar artists.
