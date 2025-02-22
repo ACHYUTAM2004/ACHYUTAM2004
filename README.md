@@ -11,7 +11,7 @@ I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a 
 
 ### ⚡ Tech Stack & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,streamlit,firebase,git,github,mysql,PowerBI,web scraping,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,streamlit,firebase,git,github,mysql" />
 </p>
 
 ---
@@ -36,7 +36,7 @@ A deep learning-powered app that detects toxic comments by classifying text into
   <img src="https://github-readme-stats.vercel.app/api?username=ACHYUTAM2004&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ACHYUTAM2004&theme=radical" alt="GitHub Streak" />
 </p>
----
+
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/achyutam-dubey-80957b260/)  
