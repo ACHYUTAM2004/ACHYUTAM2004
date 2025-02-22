@@ -9,11 +9,10 @@ I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a 
 
 ---
 
-## 🔧 Skills
-- **Programming Languages:** Python, Java, Kotlin
-- **Machine Learning Frameworks:** TensorFlow, PyTorch
-- **Tools & Platforms:** Android Studio, Streamlit, Supabase
-- **Development Environments:** WSL (Windows Subsystem for Linux), Kaggle Notebooks
+### ⚡ Tech Stack & Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,streamlit,firebase,git,github,mysql,PowerBI,web scraping,kotlin" />
+</p>
 
 ---
 
@@ -32,10 +31,16 @@ An Android app that recommends movies based on user-selected genres by integrati
 A deep learning-powered app that detects toxic comments by classifying text into categories (toxic, obscene, threat, insult, identity hate) using an LSTM-based model implemented in Python with TensorFlow/PyTorch and a simple Streamlit UI; it effectively processes unstructured text while balancing precision and recall, and future improvements include multi-language support, domain-specific tuning, and sentiment analysis.
 
 ---
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ACHYUTAM2004&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ACHYUTAM2004&theme=radical" alt="GitHub Streak" />
+</p>
+---
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/achyutam-dubey-80957b260/)  
-**Gmail** - dubeyachyutam.2004@gmail.com
+<a href="mailto:achyutam_2004@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
   
