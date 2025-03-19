@@ -34,7 +34,6 @@ A deep learning-powered app that detects toxic comments by classifying text (tox
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ACHYUTAM2004&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ACHYUTAM2004&theme=radical" alt="GitHub Streak" />
 </p>
 
 
