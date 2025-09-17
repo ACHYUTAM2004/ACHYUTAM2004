@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ACHYUTAM2004&color=blue)
 
 ### 🚀 About Me
-I'm an undergraduate in Electronics and Communication Engineering (ECE) who is passionate about data science, machine learning, and Android development. I enjoy solving real-world problems by building intelligent systems and blending innovation with engineering principles.
+I'm an undergraduate in Electronics and Communication Engineering (ECE) who is passionate about data science, machine learning, deep learning, GenAI. I enjoy solving real-world problems by building intelligent systems and blending innovation with engineering principles.
 
 ---
 
@@ -24,8 +24,8 @@ A machine learning-based app that classifies music genres from audio files by ex
 ## Resume Ranking System 📄
 An automated system categorizes and ranks resumes into domains like Data Science, Web Design, and Java Development. It leverages Python with PyPDF2 and spaCy for data extraction, Supabase for storage, and a Streamlit interface for presentation. The system efficiently handles multiple resume formats using a weighted scoring algorithm. Upcoming enhancements include NLP-based semantic analysis, domain-specific feedback, and multilingual support.
 
-## Movie Recommendation Android App 🎥
-An Android app that recommends movies based on user-selected genres integrates a lightweight recommendation model (using content-based and collaborative filtering techniques developed in Python) with a Kotlin-based Material Design UI. It offers quick access to movie details such as ratings and synopses, and the app plans to add personalized recommendations and integrate real-time data via the TMDb API.
+## ICC Champions Trophy 2025 Power BI Dashboard 🏆
+An interactive Power BI dashboard for ICC Champions Trophy 2025, analyzing 100+ players’ batting, bowling, fielding, and overall stats across the tournament. It has 10+ team comparisons with drill-down features, delivering 30+ performance insights for individual players.
 
 ## Comment Toxicity Classification App 💬
 A deep learning-powered app that detects toxic comments by classifying text (toxic, obscene, threat, insult, identity hate) using an LSTM-based model implemented in Python with TensorFlow/PyTorch and a simple Streamlit UI; it effectively processes unstructured text while balancing precision and recall, and future improvements include multi-language support, domain-specific tuning, and sentiment analysis.
