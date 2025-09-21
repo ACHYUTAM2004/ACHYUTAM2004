@@ -30,6 +30,9 @@ An interactive Power BI dashboard for ICC Champions Trophy 2025, analyzing 100+ 
 ## Comment Toxicity Classification App 💬
 A deep learning-powered app that detects toxic comments by classifying text (toxic, obscene, threat, insult, identity hate) using an LSTM-based model implemented in Python with TensorFlow/PyTorch and a simple Streamlit UI; it effectively processes unstructured text while balancing precision and recall, and future improvements include multi-language support, domain-specific tuning, and sentiment analysis.
 
+## Text Translation using Gemini Api 
+A simple language translator web application built with Python and Streamlit. It leverages the power of the Google Gemini API to provide fast and accurate multi-language translations.
+
 ---
 ### 📊 GitHub Stats
 <p align="center">
