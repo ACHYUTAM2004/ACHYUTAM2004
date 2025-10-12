@@ -11,7 +11,7 @@ I'm an undergraduate in Electronics and Communication Engineering (ECE) who is p
 
 ### ⚡ Tech Stack & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,streamlit,git,github,mysql,supabase,gemini" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,git,github,mysql,supabase,gemini" />
 </p>
 
 ---
