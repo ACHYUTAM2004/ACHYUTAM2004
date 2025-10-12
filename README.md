@@ -11,7 +11,7 @@ I'm an undergraduate in Electronics and Communication Engineering (ECE) who is p
 
 ### ⚡ Tech Stack & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,streamlit,firebase,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,streamlit,firebase,git,github,mysql,supabase,gemini" />
 </p>
 
 ---
@@ -20,6 +20,9 @@ I'm an undergraduate in Electronics and Communication Engineering (ECE) who is p
 
 ## Music Genre Classification App 🎵
 A machine learning-based app that classifies music genres from audio files by extracting features (MFCCs, chroma, spectral contrast) using Librosa employing a TensorFlow/Keras model with a Streamlit UI for real-time predictions; it overcomes varying audio qualities through noise reduction and feature normalization, with plans to expand the dataset, support live audio input, and recommend similar artists.
+
+## Synapse AI 🧠
+Synapse AI is an intelligent, multi-modal learning partner designed to help users deeply understand complex topics. It goes beyond simple Q&A by offering personalized guided lessons with step-by-step instructions and mini-quizzes to ensure mastery. The agent can learn from various sources, including PDFs, YouTube videos, and real-time web searches, and adapts all its explanations and quizzes to the user's specific knowledge level (Beginner, Intermediate, or Expert). With secure user authentication, it remembers past conversations and tracks progress towards learning goals, creating a truly adaptive and continuous educational experience.
 
 ## Resume Ranking System 📄
 An automated system categorizes and ranks resumes into domains like Data Science, Web Design, and Java Development. It leverages Python with PyPDF2 and spaCy for data extraction, Supabase for storage, and a Streamlit interface for presentation. The system efficiently handles multiple resume formats using a weighted scoring algorithm. Upcoming enhancements include NLP-based semantic analysis, domain-specific feedback, and multilingual support.
