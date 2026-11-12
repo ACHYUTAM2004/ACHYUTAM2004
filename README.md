@@ -1,53 +1,85 @@
-## 👋 Hi, I'm Achyutam Dubey!
+# 👋 Hi, I'm Achyutam Dubey
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=AI%2FML+Enthusiast;Deep+Learning+Explorer)
+### AI/ML Engineer | Generative AI | Agentic AI | Deep Learning
 
-![Profile Views](https://komarev.com/ghpvc/?username=ACHYUTAM2004&color=blue)
+I'm an Electronics and Communication Engineering undergraduate focused on building intelligent systems using **Machine Learning, Deep Learning, and Generative AI**.
 
-### 🚀 About Me
-I'm an undergraduate in Electronics and Communication Engineering (ECE) who is passionate about data science, machine learning, deep learning, GenAI. I enjoy solving real-world problems by building intelligent systems and blending innovation with engineering principles.
+I enjoy turning complex problems into practical solutions, experimenting with emerging AI technologies, and developing end-to-end applications that combine intelligent models with scalable backend systems.
 
----
-
-### ⚡ Tech Stack & Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,git,github,mysql,supabase,gemini" />
-</p>
+My interests include **Agentic AI, LLMs, RAG systems, NLP, Computer Vision, and AI-powered applications.**
 
 ---
 
-## 💻 Projects
+## 🛠️ Technical Skills
 
-## Music Genre Classification App 🎵
-A machine learning-based app that classifies music genres from audio files by extracting features (MFCCs, chroma, spectral contrast) using Librosa employing a TensorFlow/Keras model with a Streamlit UI for real-time predictions; it overcomes varying audio qualities through noise reduction and feature normalization, with plans to expand the dataset, support live audio input, and recommend similar artists.
+**Programming Languages**
+- Python, SQL, Java, Kotlin
 
-## Synapse AI 🧠
-Synapse AI is an intelligent, multi-modal learning partner designed to help users deeply understand complex topics. It goes beyond simple Q&A by offering personalized guided lessons with step-by-step instructions and mini-quizzes to ensure mastery. The agent can learn from various sources, including PDFs, YouTube videos, and real-time web searches, and adapts all its explanations and quizzes to the user's specific knowledge level (Beginner, Intermediate, or Expert). With secure user authentication, it remembers past conversations and tracks progress towards learning goals, creating a truly adaptive and continuous educational experience.
+**AI / Machine Learning**
+- Machine Learning, Deep Learning, NLP
+- Generative AI, LLMs, RAG
+- Agentic AI & Multi-Agent Systems
+- CNNs, RNNs, LSTMs, Transformers
+- TensorFlow, Keras, PyTorch, Hugging Face
 
-## Resume Ranking System 📄
-An automated system categorizes and ranks resumes into domains like Data Science, Web Design, and Java Development. It leverages Python with PyPDF2 and spaCy for data extraction, Supabase for storage, and a Streamlit interface for presentation. The system efficiently handles multiple resume formats using a weighted scoring algorithm. Upcoming enhancements include NLP-based semantic analysis, domain-specific feedback, and multilingual support.
+**Backend & Development**
+- FastAPI, Streamlit
+- REST APIs, SQLAlchemy
+- Android Development (Kotlin)
+- Git, GitHub
 
-## ICC Champions Trophy 2025 Power BI Dashboard 🏆
-An interactive Power BI dashboard for ICC Champions Trophy 2025, analyzing 100+ players’ batting, bowling, fielding, and overall stats across the tournament. It has 10+ team comparisons with drill-down features, delivering 30+ performance insights for individual players.
+**Databases & Cloud**
+- MySQL, PostgreSQL, Supabase
+- Google Cloud Platform (BigQuery, Cloud Storage, Cloud SQL)
+- Firebase
 
-## Comment Toxicity Classification App 💬
-A deep learning-powered app that detects toxic comments by classifying text (toxic, obscene, threat, insult, identity hate) using an LSTM-based model implemented in Python with TensorFlow/PyTorch and a simple Streamlit UI; it effectively processes unstructured text while balancing precision and recall, and future improvements include multi-language support, domain-specific tuning, and sentiment analysis.
-
-## Text Translation using Gemini Api 
-A simple language translator web application built with Python and Streamlit. It leverages the power of the Google Gemini API to provide fast and accurate multi-language translations.
+**Data Analysis & Visualization**
+- Pandas, NumPy, Matplotlib
+- Power BI, Excel
+- Web Scraping
 
 ---
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ACHYUTAM2004&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
+## 💻 Featured Projects
 
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/achyutam-dubey-80957b260/)  
-<a href="mailto:dubeyachyutam.2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+### 🧠 Synapse AI — Multi-Modal AI Learning Partner
+An intelligent learning platform powered by AI agents that transforms complex topics into personalized, structured learning experiences. Supports learning from PDFs, YouTube videos, and real-time web searches, with adaptive explanations, interactive quizzes, conversation memory, and progress tracking.
 
+**Technologies:** Python, LLMs, Agentic AI, RAG, FastAPI, Supabase
 
-  
-Feel free to explore my repositories to see what I'm up to! Let's collaborate and build something amazing together. 🚀
+### ⚙️ AutoDev — Multi-Agent AI Code Generation System
+An AI-powered multi-agent development system that automates backend application development through a collaborative pipeline of specialized agents: Planner, Tech Lead, and Coder. It generates structured development plans, makes architectural decisions, and produces complete backend codebases with authentication, database integration, API endpoints, and deployment configurations.
 
+**Technologies:** Python, LLMs, Multi-Agent Systems, FastAPI, SQLAlchemy, PostgreSQL
+
+### 🎵 Music Genre Classification
+A deep learning application that classifies music into different genres using audio feature extraction and CNN-based classification. Processes audio files using MFCCs, chroma, and spectral contrast features with Librosa, integrated into an interactive Streamlit application.
+
+**Technologies:** Python, TensorFlow, Keras, Librosa, CNN, Streamlit
+
+### 📄 Resume Ranking System
+An automated resume screening and ranking system that extracts information from resumes and categorizes candidates into relevant professional domains using NLP techniques and a weighted scoring algorithm.
+
+**Technologies:** Python, NLP, spaCy, PyPDF2, Supabase, Streamlit
+
+### 💬 Comment Toxicity Classification
+A deep learning-based text classification application that identifies toxic comments across multiple categories, including toxicity, obscene language, threats, insults, and identity hate. Uses a Bidirectional LSTM architecture to process and classify unstructured text.
+
+**Technologies:** Python, TensorFlow, Keras, NLP, LSTM, Streamlit
+
+### 🏏 ICC Champions Trophy 2025 — Power BI Dashboard
+An interactive cricket analytics dashboard covering 100+ players, team comparisons, and batting, bowling, and fielding performance across the tournament. Features interactive drill-downs and 30+ performance insights.
+
+**Technologies:** Power BI, Excel, Data Analytics, Data Visualization
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, AI enthusiasts, and engineers working on interesting technical problems.
+
+- [LinkedIn](https://www.linkedin.com/in/achyutam-dubey-80957b260/)
+- [Email](mailto:dubeyachyutam.2004@gmail.com)
+- [GitHub](https://github.com/ACHYUTAM2004)
+
+Feel free to explore my repositories and connect if you'd like to collaborate on something interesting!
