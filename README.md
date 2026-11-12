@@ -13,25 +13,23 @@ My interests include **Agentic AI, LLMs, RAG systems, NLP, Computer Vision, and 
 ## 🛠️ Technical Skills
 
 **Programming Languages**
-- Python, SQL, Java, Kotlin
+- Python, SQL
 
 **AI / Machine Learning**
 - Machine Learning, Deep Learning, NLP
 - Generative AI, LLMs, RAG
-- Agentic AI & Multi-Agent Systems
+- Agentic AI & Multi-Agent Systems, LangChain, LangGraph
 - CNNs, RNNs, LSTMs, Transformers
 - TensorFlow, Keras, PyTorch, Hugging Face
 
 **Backend & Development**
 - FastAPI, Streamlit
 - REST APIs, SQLAlchemy
-- Android Development (Kotlin)
 - Git, GitHub
 
 **Databases & Cloud**
-- MySQL, PostgreSQL, Supabase
-- Google Cloud Platform (BigQuery, Cloud Storage, Cloud SQL)
-- Firebase
+- MySQL, PostgreSQL, Supabase, Redis
+- Google Cloud Platform 
 
 **Data Analysis & Visualization**
 - Pandas, NumPy, Matplotlib
@@ -50,7 +48,7 @@ An intelligent learning platform powered by AI agents that transforms complex to
 ### ⚙️ AutoDev — Multi-Agent AI Code Generation System
 An AI-powered multi-agent development system that automates backend application development through a collaborative pipeline of specialized agents: Planner, Tech Lead, and Coder. It generates structured development plans, makes architectural decisions, and produces complete backend codebases with authentication, database integration, API endpoints, and deployment configurations.
 
-**Technologies:** Python, LLMs, Multi-Agent Systems, FastAPI, SQLAlchemy, PostgreSQL
+**Technologies:** Python, LLMs, Multi-Agent Systems, FastAPI, SQLAlchemy, PostgreSQL, LangGraph
 
 ### 🎵 Music Genre Classification
 A deep learning application that classifies music into different genres using audio feature extraction and CNN-based classification. Processes audio files using MFCCs, chroma, and spectral contrast features with Librosa, integrated into an interactive Streamlit application.
